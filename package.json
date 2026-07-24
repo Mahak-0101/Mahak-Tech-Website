@@ -22,6 +22,7 @@
     "@studio-freight/lenis": "^1.0.42",
     "split-type": "^0.3.4",
     "lottie-react": "^2.4.1"
+    "zod": "^4.0.8"
   },
   "devDependencies": {
     "@types/node": "^22.10.5",
